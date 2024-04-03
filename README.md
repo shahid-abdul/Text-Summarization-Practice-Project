@@ -17,6 +17,12 @@
  - Now we need to do data ingestion in research forlder, In which we are going to download and unzip the data file
  - Now update the configuration.py file
  - Now create a pipeline name stage_01_data_ingestion.py
- - 
+ 
+5. ## Data Validation 
+
+ - Now we are gonna validate our data
+ - First update config.yaml file by creating data validation function
+ - update entitties by adding data validation in __init__.py file
+ - Now create components of data validation
 
 
