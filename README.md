@@ -23,6 +23,15 @@
  - Now we are gonna validate our data
  - First update config.yaml file by creating data validation function
  - update entitties by adding data validation in __init__.py file
- - Now create components of data validation
+ - Now create components of data validation.
+
+6. ## Data Transformation
+
+ - Now we are gonna perform our data transformation in the notebook and then add it to the respected file.
+ - Update config.yaml and then run the notebook
+ - Update the entity file
+ - Update configuration.py file
+ - Add a new componenet for data
+ - Add a new stage in pipeline folder for data transformation
 
 
