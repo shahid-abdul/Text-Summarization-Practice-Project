@@ -34,4 +34,12 @@
  - Add a new componenet for data
  - Add a new stage in pipeline folder for data transformation
 
-
+7. ## Model Training 
+ - Now we are gonna train our model
+ - Update config.yaml file
+ - Update params.yaml file
+ - Update entity
+ - Upgrade cofiguration.py file
+ - create a component model_trainer.py
+ - Create pipeline
+ - Update main.py file
